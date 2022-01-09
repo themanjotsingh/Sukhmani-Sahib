@@ -1,0 +1,4 @@
+*.mp3
+!spec/*.mp3
+*.aup3
+!spec/*.aup3
